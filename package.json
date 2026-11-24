@@ -1,0 +1,14 @@
+{
+  "name": "match-price",
+  "version": "1.0.0",
+  "description": "Comparateur de prix d'épicerie",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
